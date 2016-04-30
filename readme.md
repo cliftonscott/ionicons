@@ -1,5 +1,10 @@
 # Ionicons
 
+**This fork was created because the 'ionicons' one on NPM is out of date.**
+
+To install with npm do `npm i ionicons-npm` (with `--save` or `--save-dev`).
+
+---
 
 The premium icon font for [Ionic](http://ionicframework.com/). Designed by [@benjsperry](https://twitter.com/benjsperry).
 
